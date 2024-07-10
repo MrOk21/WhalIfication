@@ -1,0 +1,11 @@
+tensorflow
+h5py
+Pillow
+numpy
+scikit-learn
+torchvision
+torch
+matplotlib
+tqdm
+tkinterdnd2
+opencv-python
